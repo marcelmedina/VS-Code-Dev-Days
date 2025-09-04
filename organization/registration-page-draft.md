@@ -41,7 +41,7 @@ Wrap up the session and leave time for networking.
 ---
 ## 📜 Code of Conduct
 
-We are committed to fostering an inclusive and welcoming environment for all participants. Please review our [Code of Conduct](#) before attending.  
+We are committed to fostering an inclusive and welcoming environment for all participants. Please review our [Code of Conduct](https://www.microsoft.com/en-us/events/code-of-conduct) before attending.  
 
 ## 📍 How to Get There
 
